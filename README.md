@@ -9,6 +9,11 @@
 - **API Access**: Provides an API endpoint to fetch the resource statistics over a specific period.
 - **Persistent Storage**: Stores collected data in a SQLite database for future reference and analysis.
 
+  ## TODO
+  - [ ] Front-end for visualizing the data
+  - [ ] Integrating external databases
+  - [ ] Alert mechanism that drop an email / message / slack notification / etc on certain resource threshold.
+
 ## Getting Started
 
 ### Prerequisites
